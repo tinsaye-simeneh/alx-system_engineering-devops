@@ -1,2 +1,2 @@
-sudo usermod -u betty 4f9753fffe2f
-
+#!/bin/bash
+su betty
