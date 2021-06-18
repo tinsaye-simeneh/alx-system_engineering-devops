@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-#displays content of current directory, only the part after the first -
-for file in *
-do
-	echo "$file" | cut -d '-' -f 2
-done
